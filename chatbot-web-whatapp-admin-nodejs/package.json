@@ -1,0 +1,30 @@
+{
+  "name": "sai_ram_hack",
+  "version": "1.0.0",
+  "description": "nodejs sai-ram hack ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nitish V",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "browser-detect": "^0.2.28",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-public-ip": "^1.0.1",
+    "express-session": "^1.16.2",
+    "mongoose": "^5.7.0",
+    "nodemon": "^1.19.2",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "systeminformation": "^4.14.8",
+    "uuid-apikey": "^1.4.4"
+  }
+}
