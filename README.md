@@ -29,4 +29,4 @@ AI Based Chatbot
 
 ## Author
 
-[Sohel Amin](http://www.sohelamin.com)
+[Nitish v]
